@@ -1,0 +1,73 @@
+aid: web-summit
+url: https://raw.githubusercontent.com/api-evangelist/web-summit/refs/heads/main/apis.yml
+apis: []
+name: Web Summit
+tags:
+- Conferences
+- Events
+- Technology
+- Startups
+type: Index
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+common:
+- url: https://websummit.com/
+  name: Web Summit Website
+  type: Website
+- url: https://about.websummit.com/
+  name: About Web Summit
+  type: About
+- url: https://websummit.com/tickets/attendees/
+  name: Tickets
+  type: Pricing
+- url: https://websummit.com/schedule/
+  name: Schedule
+  type: Portal
+- url: https://websummit.com/startups/
+  name: Startup Programme
+  type: Portal
+- url: https://websummit.com/developers/
+  name: Developer Programme
+  type: Portal
+- url: https://websummit.com/partners/
+  name: Partners
+  type: Portal
+- url: https://websummit.com/app/
+  name: Mobile App
+  type: Portal
+- url: https://websummit.com/blog/
+  name: Blog
+  type: Blog
+- url: https://support.websummit.com/support/home
+  name: Support
+  type: Support
+- url: https://support.websummit.com/support/solutions/articles/44002458405-our-developer-programme
+  name: Developer Programme FAQ
+  type: Documentation
+- url: https://about.websummit.com/privacy/
+  name: Privacy Policy
+  type: PrivacyPolicy
+- url: https://about.websummit.com/website-terms-and-conditions/
+  name: Terms and Conditions
+  type: TermsOfService
+- url: https://x.com/WebSummit
+  name: Web Summit on X
+  type: X
+- url: https://www.linkedin.com/company/web-summit
+  name: Web Summit on LinkedIn
+  type: LinkedIn
+- url: https://www.facebook.com/WebSummitHQ/
+  name: Web Summit on Facebook
+  type: Facebook
+- url: https://www.instagram.com/websummit/
+  name: Web Summit on Instagram
+  type: Instagram
+- url: https://github.com/websummit
+  name: Web Summit on GitHub
+  type: GitHub
+- url: https://www.youtube.com/websummit
+  name: Web Summit on YouTube
+  type: YouTube
+created: '2026-03-24'
+modified: '2026-03-24'
+specificationVersion: '0.19'
