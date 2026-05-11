@@ -170,6 +170,10 @@ common:
         description: Web Summit uses email marketing and transactional email for attendee communications and updates.
       - name: Payment Processing
         description: Ticket sales are processed through secure payment gateways for individual and corporate ticket purchases.
+  - type: Integrations
+    url: https://websummit.com/partners/
+integrations:
+  - name: Meet our partners
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
