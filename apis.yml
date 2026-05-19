@@ -17,7 +17,7 @@ tags:
   - Networking
   - Technology
 created: '2026-05-03'
-modified: '2026-05-03'
+modified: '2026-05-19'
 specificationVersion: '0.19'
 apis:
   - aid: web-summit:attendee-platform
@@ -172,6 +172,9 @@ common:
         description: Ticket sales are processed through secure payment gateways for individual and corporate ticket purchases.
   - type: Integrations
     url: https://websummit.com/partners/
+  - name: MCP Server
+    url: https://github.com/websummit/postgres-mcp
+    type: MCPServer
 integrations:
   - name: Meet our partners
 maintainers:
