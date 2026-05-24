@@ -175,6 +175,8 @@ common:
   - name: MCP Server
     url: https://github.com/websummit/postgres-mcp
     type: MCPServer
+  - type: LLMsTxt
+    url: https://websummit.com/llms.txt
 integrations:
   - name: Meet our partners
 maintainers:
