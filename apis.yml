@@ -55,7 +55,7 @@ apis:
     properties:
       - type: Documentation
         url: https://websummit.com/startups/
-      - type: SignUp
+      - type: Signup
         url: https://websummit.com/startups/apply/
 
   - aid: web-summit:developer-programme
@@ -73,7 +73,7 @@ apis:
     properties:
       - type: Documentation
         url: https://websummit.com/developers/
-      - type: SignUp
+      - type: Signup
         url: https://websummit.com/developers/
 
 common:
@@ -175,7 +175,7 @@ common:
   - name: MCP Server
     url: https://github.com/websummit/postgres-mcp
     type: MCPServer
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://websummit.com/llms.txt
 integrations:
   - name: Meet our partners
