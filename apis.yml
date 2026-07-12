@@ -77,6 +77,8 @@ apis:
         url: https://websummit.com/developers/
 
 common:
+  - type: DomainSecurity
+    url: security/web-summit-domain-security.yml
   - url: https://websummit.com/
     name: Web Summit Website
     type: Website
