@@ -25,6 +25,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/web-summit.png
 tags:
   - Conference
+  - Event
+  - Networking
+  - Technology
+tags_raw:
+  - Conference
   - Events
   - Networking
   - Technology
@@ -79,6 +84,10 @@ apis:
       Summit with speakers from OpenAI, Amazon, Uber, Cloudflare, and more.
     humanURL: https://websummit.com/developers/
     tags:
+      - Developers
+      - Open-Source
+      - Technology
+    tags_raw:
       - Developers
       - Open Source
       - Technology
