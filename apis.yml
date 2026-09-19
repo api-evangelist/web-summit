@@ -35,7 +35,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/web-summit.png
 tags:
-  - Conference
+  - Conferences
   - Event
   - Networking
   - Technology
@@ -58,6 +58,11 @@ apis:
       during the event.
     humanURL: https://websummit.com/attend/
     tags:
+      - Attendees
+      - Conferences
+      - Networking
+      - Scheduling
+    tags_raw:
       - Attendees
       - Conference
       - Networking
