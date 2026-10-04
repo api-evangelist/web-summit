@@ -101,12 +101,13 @@ apis:
     humanURL: https://websummit.com/developers/
     tags:
       - Developers
-      - Open-Source
+      - Open Source
       - Technology
     tags_raw:
       - Developers
       - Open Source
       - Technology
+      - Open-Source
     properties:
       - type: Documentation
         url: https://websummit.com/developers/
